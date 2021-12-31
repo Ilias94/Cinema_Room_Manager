@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Varargs_method_invocation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-What_does_the_method_print.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Create_a_full_name.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Decompose_a_math_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Avoid_division_by_zero.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-What_is_an_exception-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
